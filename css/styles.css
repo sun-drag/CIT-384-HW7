@@ -6,11 +6,11 @@
 #8b413e - footer
 */
 
-/* Additional accent: #f6e4c6 - work experience backgrounds */
+/* #f6e4c6 - work experience backgrounds */
 
 /* Global styles 
 ------------------------------------*/
-/* border box fix */
+
 html {
     box-sizing: border-box;
     scroll-behavior: smooth;
